@@ -1,2 +1,2 @@
 #!/bin/bash
-o $(($BEST School))
+export BEST="School"
